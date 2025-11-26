@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48d003e78a039569d5ff1e1de63dac94ebc832a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b52eddc57a959e608cc85686f5fddf1fa3d1743")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
